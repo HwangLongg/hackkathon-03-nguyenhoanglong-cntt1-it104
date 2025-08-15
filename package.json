@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "name": "hackkathon-03-cntt1-nguyenhoanglong-it104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hackkathon-03-cntt1-nguyenhoanglong-it104.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "./hackkathon-03-cntt1-nguyenhoanglong-it104.d.ts"
+}
